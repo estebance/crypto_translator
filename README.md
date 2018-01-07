@@ -3,6 +3,7 @@
 Standardization of names for cryptocurrency pairs and tickets
 
 Build status:
+[![Build Status](https://travis-ci.org/estebance/crypto_translator.svg?branch=master)](https://travis-ci.org/estebance/crypto_translator)
 
 ### Prerequisites
 
