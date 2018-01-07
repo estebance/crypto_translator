@@ -1,0 +1,14 @@
+*.pyc
+*.egg-info
+
+/.tox
+
+/build
+/dist
+
+/.envrc
+/.direnv
+
+# pypi files
+README.txt
+ADITIONAL_NOTES.md
